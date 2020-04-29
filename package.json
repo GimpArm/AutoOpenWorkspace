@@ -1,7 +1,7 @@
 {
 	"name": "autoopenworkspace",
 	"displayName": "AutoOpenWorkspace",
-	"publisher": "AutoOpenWorkspace",
+	"publisher": "gimparm",
 	"description": "When VS Code opens a folder and if the folder contains a .code-workspace file then it will automatically open the workspace.",
 	"version": "1.0.0",
 	"repository": "https://github.com/GimpArm/AutoOpenWorkspace",
